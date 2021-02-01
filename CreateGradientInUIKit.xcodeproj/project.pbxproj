@@ -13,6 +13,7 @@
 		95A97C6A25C83DAE00E75F05 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95A97C6825C83DAE00E75F05 /* Main.storyboard */; };
 		95A97C6C25C83DAF00E75F05 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95A97C6B25C83DAF00E75F05 /* Assets.xcassets */; };
 		95A97C6F25C83DAF00E75F05 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95A97C6D25C83DAF00E75F05 /* LaunchScreen.storyboard */; };
+		95A97C7825C83F3B00E75F05 /* GradientButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A97C7725C83F3B00E75F05 /* GradientButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		95A97C6B25C83DAF00E75F05 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		95A97C6E25C83DAF00E75F05 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		95A97C7025C83DAF00E75F05 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		95A97C7725C83F3B00E75F05 /* GradientButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				95A97C6225C83DAE00E75F05 /* AppDelegate.swift */,
 				95A97C6425C83DAE00E75F05 /* SceneDelegate.swift */,
 				95A97C6625C83DAE00E75F05 /* ViewController.swift */,
+				95A97C7725C83F3B00E75F05 /* GradientButton.swift */,
 				95A97C6825C83DAE00E75F05 /* Main.storyboard */,
 				95A97C6B25C83DAF00E75F05 /* Assets.xcassets */,
 				95A97C6D25C83DAF00E75F05 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				95A97C6725C83DAE00E75F05 /* ViewController.swift in Sources */,
+				95A97C7825C83F3B00E75F05 /* GradientButton.swift in Sources */,
 				95A97C6325C83DAE00E75F05 /* AppDelegate.swift in Sources */,
 				95A97C6525C83DAE00E75F05 /* SceneDelegate.swift in Sources */,
 			);
